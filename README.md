@@ -42,7 +42,7 @@ The goal was to improve **visibility, accountability, and engagement** among age
 ---
 
 ### 📸 Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+[![Dashboard Screenshot](./Dashboard_Screenshot.jpg)](./Dashboard_Screenshot.jpg)
 
 *(All data shown is mock/sample data for demonstration purposes.)*
 
